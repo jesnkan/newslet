@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T21:40:00Z",
+  "lastUpdated": "2026-09-28T22:01:04.909Z",
   "schedule": "10:00 PM Daily",
   "period": "September 26 – October 3, 2026",
   "days": {
@@ -7,8 +7,8 @@
       "date": "2026-09-26",
       "dayName": "Saturday",
       "displayDate": "Saturday, 26th September 2026",
-      "headlineCount": 6,
-      "summary": "Ghana debates newly announced cocoa producer pricing while UN General Assembly in New York faces mass walkouts over Middle East escalation.",
+      "headlineCount": 12,
+      "summary": "Intense debates over newly announced cocoa pricing and port security in Ghana, while the UN General Assembly in New York faces mass walkouts and high-stakes diplomatic diplomacy.",
       "ghanaNews": [
         {
           "id": "gh-2026-09-26-01",
@@ -46,11 +46,53 @@
           "category": "National Security & Customs",
           "summary": "The Customs Division of the Ghana Revenue Authority (GRA), working with national security intelligence, intercepted an undeclared consignment containing an assault rifle, two pistols, and hundreds of rounds of live ammunition concealed inside a consolidated personal effects container shipped from North America.",
           "keyPoints": [
-            "Weapons uncovered during rigorous physical examination of suspect containers.",
+            "Weapons uncovered during physical examination of suspect containers.",
             "Two clearing agents and the consignee's local representative detained for questioning.",
             "Security agencies step up scanning protocols ahead of December national elections."
           ],
           "readTime": "2 min read"
+        },
+        {
+          "id": "gh-2026-09-26-04",
+          "title": "Office of the Special Prosecutor Updates Judiciary on High-Profile Public Asset Investigations",
+          "source": "GhanaWeb / OSP Dispatch",
+          "time": "07:30 PM",
+          "category": "Anti-Corruption & Legal Affairs",
+          "summary": "The Office of the Special Prosecutor (OSP) published its statutory periodic case update, outlining prosecution progress regarding alleged procurement breaches in statutory agencies and the tracing of offshore assets linked to former public corporation executives.",
+          "keyPoints": [
+            "OSP reported collaboration with INTERPOL and bilateral mutual legal assistance channels.",
+            "Special Prosecutor reaffirmed commitment to expeditious trial monitoring.",
+            "Civil society coalitions welcomed heightened transparency in quarterly filings."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-26-05",
+          "title": "Volta River Authority and Gridco Review Power Export Commitments to Togo and Benin",
+          "source": "Daily Graphic",
+          "time": "08:45 PM",
+          "category": "Energy Diplomacy & Regional Integration",
+          "summary": "Senior executives of the Volta River Authority (VRA) and the Ghana Grid Company (GRIDCo) met to review thermal and hydro generation balances. The review ensured that contractual power supply agreements with neighboring West African countries are maintained without compromising domestic industrial power reliability.",
+          "keyPoints": [
+            "Export obligations under the West African Power Pool (WAPP) monitored closely.",
+            "Thermal plants in Aboadze and Tema operating at stabilized natural gas feed volumes.",
+            "VRA underscored regional interconnectivity as vital for foreign currency generation."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-26-06",
+          "title": "Electoral Commission Completes Nationwide Exhibition of Provisional Voters Register",
+          "source": "Citi Newsroom",
+          "time": "09:20 PM",
+          "category": "Electoral Governance",
+          "summary": "The Electoral Commission (EC) formally brought to a close its nationwide exhibition exercise across 38,000 polling stations, allowing registered citizens to verify their voter particulars, request corrections, and file objections to unqualified entries on the national register ahead of the December polls.",
+          "keyPoints": [
+            "District registration review officers now adjudicating filed disputes.",
+            "Political parties received electronic copies of provisional logs for reconciliation.",
+            "EC assured stakeholders of a transparent final register certification process."
+          ],
+          "readTime": "3 min read"
         }
       ],
       "internationalNews": [
@@ -95,6 +137,48 @@
             "Demanded strict enforcement of existing UN arms embargoes."
           ],
           "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-26-04",
+          "title": "African Union Peace & Security Council Re-evaluates Diplomatic Engagement with Sahel Confederation",
+          "source": "AU Commission / Jeune Afrique",
+          "time": "08:15 PM",
+          "category": "Regional Geopolitics & African Security",
+          "summary": "Meeting on the margins of UNGA in New York, the AU Peace and Security Council held deliberations on the standoff between ECOWAS and the Alliance of Sahel States (AES - Mali, Burkina Faso, Niger). African leaders emphasized constructive engagement to prevent permanent regional economic fragmentation.",
+          "keyPoints": [
+            "Council urged dialogue over punitive commercial embargoes.",
+            "Joint intelligence sharing against Sahelian jihadist movements highlighted as non-negotiable.",
+            "Special envoys appointed to facilitate technical meetings in Lomé and Abuja."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-26-05",
+          "title": "Pacific Small Island States Push UN General Assembly for Binding Maritime Baseline Protections",
+          "source": "The Guardian / UN News",
+          "time": "09:30 PM",
+          "category": "Climate Diplomacy & International Law",
+          "summary": "Leaders from the Pacific Islands Forum presented a landmark legal declaration at the UN, asserting that rising sea levels must not alter established Exclusive Economic Zone (EEZ) boundaries or strip island nations of their sovereign maritime entitlements under the UN Convention on the Law of the Sea (UNCLOS).",
+          "keyPoints": [
+            "Declaration seeks international consensus that legal baselines remain fixed permanently.",
+            "Supported by broad coalition of coastal African and Caribbean developing nations.",
+            "International Law Commission invited to codify state practice on sea level rise."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-26-06",
+          "title": "Colombia and Brazil Host Amazon Protection Roundtable Ahead of Biodiversity Summit",
+          "source": "EFE / France24",
+          "time": "10:15 PM",
+          "category": "Environmental Governance",
+          "summary": "Presidents of Colombia and Brazil co-chaired a high-level ministerial summit in New York to formalize a unified South American negotiating bloc ahead of COP16 in Cali. The leaders called on developed economies to honor debt-for-nature swap commitments and fund rainforest conservation.",
+          "keyPoints": [
+            "Signatories called for direct indigenous community conservation grant funding.",
+            "Criticized agricultural import barriers disguised as environmental regulations.",
+            "Outlined regional joint border policing to eliminate illegal gold mining and logging."
+          ],
+          "readTime": "2 min read"
         }
       ]
     },
@@ -102,8 +186,8 @@
       "date": "2026-09-27",
       "dayName": "Sunday",
       "displayDate": "Sunday, 27th September 2026",
-      "headlineCount": 6,
-      "summary": "Major teacher unions confirm nationwide industrial action for Monday; Lebanon rejects being used as a proxy battleground as diplomatic efforts stall.",
+      "headlineCount": 12,
+      "summary": "Nationwide teacher strike confirmed in Ghana, World Bank food security warnings emerge, and global diplomatic efforts intensify over Middle East and European security.",
       "ghanaNews": [
         {
           "id": "gh-2026-09-27-01",
@@ -144,6 +228,48 @@
             "Bawumia pledged tax credits and digitized healthcare procurement reforms.",
             "Mahama outlined 24-hour economy incentives and domestic manufacturing tax holidays.",
             "Professional bodies demanded binding social contract pacts prior to election day."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-27-04",
+          "title": "Speaker of Parliament Consults Party Leaders on Legislative Business and Ministerial Vetters",
+          "source": "Parliament House Press Corps",
+          "time": "07:15 PM",
+          "category": "Parliamentary Governance",
+          "summary": "The Speaker of Parliament held consultative discussions with both Majority and Minority leaders regarding the upcoming legislative agenda. Priorities include statutory approvals for the mid-year budget supplementary estimates, international bilateral credit facilities, and outstanding regulatory instruments.",
+          "keyPoints": [
+            "Leaders reached tentative consensus on sitting schedules.",
+            "Debates scheduled on national anti-galamsey enforcement legislation.",
+            "Appointments Committee to finalize dates for pending statutory nominations."
+          ],
+          "readTime": "2 min read"
+        },
+        {
+          "id": "gh-2026-09-27-05",
+          "title": "National Peace Council Engages Religious Leaders on Preventing Pre-Election Hate Speech",
+          "source": "Graphic Online",
+          "time": "08:30 PM",
+          "category": "Peace & National Cohesion",
+          "summary": "The National Peace Council (NPC) convened Christian, Muslim, and traditional faith leaders in Accra to establish community early-warning peace monitors. The council warned against inflammatory rhetoric on radio and digital media as political rallies enter their peak phase.",
+          "keyPoints": [
+            "Code of Conduct for political communicators and media stations reaffirmed.",
+            "Regional peace councils tasked with rapid mediation of constituency disputes.",
+            "Youth wings of political parties urged to reject violent mobilization."
+          ],
+          "readTime": "2 min read"
+        },
+        {
+          "id": "gh-2026-09-27-06",
+          "title": "Ghana Cocoa Board Dispatches Special Field Taskforce to Northern Frontier to Halt Smuggling",
+          "source": "Citi Newsroom",
+          "time": "09:40 PM",
+          "category": "Economic Security & Border Control",
+          "summary": "Following the announcement of the new cocoa farmgate price, COCOBOD deployed joint anti-smuggling taskforces to border towns in the Western North, Bono, and Oti regions to prevent illicit trafficking of beans into neighboring Côte d'Ivoire and Togo.",
+          "keyPoints": [
+            "Military and immigration personnel stationed at notorious unapproved routes.",
+            "Intelligence bounties announced for citizens reporting illegal cocoa haulage.",
+            "COCOBOD CEO stated protecting harvest volumes is crucial to meeting international delivery contracts."
           ],
           "readTime": "3 min read"
         }
@@ -190,6 +316,48 @@
             "European leaders highlighted development cooperation as a strategic pillar of EU-Africa relations."
           ],
           "readTime": "2 min read"
+        },
+        {
+          "id": "intl-2026-09-27-04",
+          "title": "BRICS+ Foreign Ministers Conclude New York Consultations on Local Currency Clearing Framework",
+          "source": "Financial Times / TASS",
+          "time": "08:40 PM",
+          "category": "Geo-Economics & Multilateral Trade",
+          "summary": "Foreign and finance ministers of the expanded BRICS bloc finalized preparatory roadmaps for their upcoming summit in Kazan. Discussions focused on establishing independent interbank payment rails to reduce reliance on the US dollar in intra-bloc commodity trading.",
+          "keyPoints": [
+            "New Development Bank (NDB) to expand local currency debt issuance by 30%.",
+            "Ministers emphasized financial sovereignty without creating formal trade barriers.",
+            "Developing nations invited to test bilateral currency swap mechanisms."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-27-05",
+          "title": "Kenya and CARICOM Envoys Review Security Operations in Haiti on UNGA Margins",
+          "source": "Miami Herald / UN News",
+          "time": "09:15 PM",
+          "category": "International Peacekeeping",
+          "summary": "Kenyan diplomatic and security officials met with Caribbean Community (CARICOM) counterparts to review the deployment status of the Multinational Security Support (MSS) mission in Haiti. Leaders called on the UN Security Council to transition the mission into a formal UN peacekeeping operation to guarantee sustainable funding.",
+          "keyPoints": [
+            "Kenyan police forces secured key transit ports and hospital perimeters in Port-au-Prince.",
+            "Delegations called for expedited delivery of armored vehicles and aerial surveillance drones.",
+            "UN Security Council mandate renewal vote scheduled for late September."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-27-06",
+          "title": "International Atomic Energy Agency Warns of Vulnerabilities Near Conflict-Zone Power Stations",
+          "source": "IAEA / Reuters",
+          "time": "10:00 PM",
+          "category": "Nuclear Safety & International Security",
+          "summary": "IAEA Director General Rafael Grossi presented a sobering update to the UN Security Council regarding persistent shelling and grid disconnections near the Zaporizhzhia Nuclear Power Station in Ukraine, reiterating that a nuclear safety incident remains an unacceptably high risk.",
+          "keyPoints": [
+            "External power lines to cooling systems temporarily severed by artillery strikes.",
+            "IAEA monitors on the ground secured emergency diesel generator backup lines.",
+            "Grossi reiterated the 'Five Concrete Principles' for nuclear installation protection."
+          ],
+          "readTime": "3 min read"
         }
       ]
     },
@@ -197,9 +365,289 @@
       "date": "2026-09-28",
       "dayName": "Monday",
       "displayDate": "Monday, 28th September 2026 (Today)",
-      "headlineCount": 6,
-      "summary": "Today's developments: Nationwide teachers' strike takes effect across Ghana as government opens crisis talks; intense UN Security Council debates continue.",
+      "headlineCount": 50,
+      "summary": "Nationwide teacher strike shuts schools in Ghana, Bank of Ghana MPC meets on macroeconomic indicators, and high-stakes UN Security Council ceasefire deliberations continue.",
       "ghanaNews": [
+        {
+          "id": "gh-1790632807418-353",
+          "title": "MoFA urges Finance Ministry to reverse World Bank food programme withdrawal over GH¢643m commitments",
+          "source": "MyJoyOnline",
+          "time": "07:13 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The Ministry of Food and Agriculture (MoFA) has urged the Ministry of Finance to reverse Ghana’s withdrawal from the West Africa Food System Resilience Programme (FSRP), warning that the decision could put GH¢643.87 million in existing contractual co...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/mofa-urges-finance-ministry-to-reverse-world-bank-food-programme-withdrawal-over-gh%c2%a2643m-commitments/"
+        },
+        {
+          "id": "gh-1790632807418-206",
+          "title": "Cabinet threw out US health compact faster than anything I’ve seen – Mahama",
+          "source": "MyJoyOnline",
+          "time": "07:18 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "President John Dramani Mahama says he has never seen Cabinet throw out anything as fast as it rejected the United States health compact, after it flagged demands for Ghana’s pathogen profile and citizens’ medical records.",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/cabinet-threw-out-us-health-compact-faster-than-anything-ive-seen-mahama/"
+        },
+        {
+          "id": "gh-1790632807418-461",
+          "title": "South Tongu Records Rise in Teenage Pregnancy",
+          "source": "MyJoyOnline",
+          "time": "07:20 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The South Tongu District in the Volta Region has seen a notable rise in teenage pregnancy cases during the second quarter of 2026. According to reports, about 190 teenage pregnancy cases were recorded across various health facilities from January to ...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/south-tongu-records-rise-in-teenage-pregnancy/"
+        },
+        {
+          "id": "gh-1790632807418-559",
+          "title": "PKO boxers secure wins at Odwira Festival",
+          "source": "MyJoyOnline",
+          "time": "07:37 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "Hamza Mohammed delivered an impressive performance, stopping John Oblitey Commey in the third round by knockout in their lightweight contest.",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/pko-boxers-secure-wins-at-odwira-festival/"
+        },
+        {
+          "id": "gh-1790632807417-456",
+          "title": "Customs intercepts assault rifle, two pistols and 610 rounds of ammunition at Tema Port",
+          "source": "MyJoyOnline",
+          "time": "07:51 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "Customs officials at the Tema Port have intercepted an assault rifle, two pistols and 610 rounds of ammunition concealed among personal effects arriving from the United States.\n\nThe firearms and ammunition were not declared to Customs and were allege...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/customs-intercepts-assault-rifle-two-pistols-and-610-rounds-of-ammunition-at-tema-port/"
+        },
+        {
+          "id": "gh-1790632807417-15",
+          "title": "Pay striking teachers before expressway spending, Dr Kingsley Agyemang tells government",
+          "source": "MyJoyOnline",
+          "time": "08:03 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "Member of Parliament for Abuakwa South and member of Parliament’s Education Committee,  Kingsley Agyemang, has urged government to prioritise payments owed to teachers instead of committing funds to a proposed GH¢2 billion Accra–Kumasi Expressway pro...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/pay-striking-teachers-before-expressway-spending-dr-kingsley-agyemang-tells-government/"
+        },
+        {
+          "id": "gh-1790632807417-917",
+          "title": "Black Challenge unveiled with sights set on Amputee World Cup glory",
+          "source": "MyJoyOnline",
+          "time": "08:48 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The event, held at the ESP Hotel in Accra, was attended by several dignitaries, including Minister for Sports and Recreation Kofi Adams.",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/black-challenge-unveiled-with-sights-set-on-amputee-world-cup-glory/"
+        },
+        {
+          "id": "gh-1790632807417-585",
+          "title": "New health training facility at Ampoma-Jema to address admission shortfalls, but Minister flags missing amenities",
+          "source": "MyJoyOnline",
+          "time": "09:08 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "A new health training facility is being constructed from scratch by the government between Ampoma and Jema in the Bono East Region, with the Regional Minister, Francis Owusu, expressing optimism that the project will significantly improve health trai...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/new-health-training-facility-at-ampoma-jema-to-address-admission-shortfalls-but-minister-flags-missing-amenities/"
+        },
+        {
+          "id": "gh-1790632807417-83",
+          "title": "Volta Region National Public Speaking contest advances drug prevention conversation",
+          "source": "MyJoyOnline",
+          "time": "09:33 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The Volta Region stage of the National Public Speaking competition has been held at Sogakope Senior High School, bringing together students to engage in thought-provoking discussions on drug abuse, prevention, mental health and national development.",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/volta-region-national-public-speaking-contest-advances-drug-prevention-conversation/"
+        },
+        {
+          "id": "gh-1790632807416-762",
+          "title": "Bond market: Turnover declined by 28% to GH¢1.56bn",
+          "source": "MyJoyOnline",
+          "time": "09:37 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The secondary bond market activity slowed, with turnover declining 28.56% week-to-week to GH¢1.56 billion. Trading remained concentrated in the 2031-2034 segment. It accounted for 71.30% of turnover at an average yield of 13.93%. The 2027-2030 segmen...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/bond-market-turnover-declined-by-28-to-gh%c2%a21-56bn/"
+        },
+        {
+          "id": "gh-1790632805589-341",
+          "title": "PAG flagbearer calls for review of MPs' salaries and benefits",
+          "source": "Graphic Online",
+          "time": "11:03 AM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The flagbearer of the Progressive Alliance for Ghana, Dr John Enyonam Kpikpi, has called for an overhaul of the remuneration and privileges of Members of Parliament, arguing that politics should be driven by public service rather than personal enrich...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/politics/pag-flagbearer-calls-for-review-of-mps-salaries-and-benefits.html"
+        },
+        {
+          "id": "gh-1790632805589-580",
+          "title": "Second Deputy Governor of BoG Matilda Asante-Asiedu replaces Governor Asiama on GoldBod",
+          "source": "Graphic Online",
+          "time": "11:06 AM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The Bank of Ghana (BoG) has confirmed that the Governor, Dr Johnson Asiama haa ceased to be a member of the Ghana Gold Board (GoldBod).\n\r\nAccording to the BoG, Dr Asiama exited the board on May 11, 2026, and has been replaced by the Second Deputy Gov...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/general-news/second-deputy-governor-of-bog-matilda-asante-asiedu-replaces-governor-asiama-on-goldbod.html"
+        },
+        {
+          "id": "gh-1790632805589-661",
+          "title": "MIIF explores greater participation in mining value chain",
+          "source": "Graphic Online",
+          "time": "07:29 AM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The Minerals Income Investment Fund (MIIF) is assessing businesses across the mining value chain for potential investment in a bid to increase local participation and retain more value from the country’s mineral resources.\n\r\nRead More …",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/general-news/ghana-news-miif-explores-greater-participation-in-mining-value-chain.html"
+        },
+        {
+          "id": "gh-1790632805589-541",
+          "title": "Special traffic arrangement for faster movement of Aayalolo buses in Accra beginning Tuesday Sept 29",
+          "source": "Graphic Online",
+          "time": "11:11 AM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The government of Ghana, through the Ministry of Local Government, Chieftaincy and Religious Affairs, has announced the implementation of a special traffic arrangement for faster movement of Aayalolo buses in Accra beginning Tuesday Septwmber 29, 202...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/general-news/govt-introduces-contra-flow-for-ayalolo-buses-from-september-29.html"
+        },
+        {
+          "id": "gh-1790632805589-531",
+          "title": "Police provide details on how 3 arrested suspects were involved in kidnap, murder of Circle phone dealer Nana Yaw Kyere at Teshie",
+          "source": "Graphic Online",
+          "time": "12:13 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The Police has confirmed the arrest of three suspects in connection with the kidnapping and murder of 33-year-old mobile phone dealer at the Teshie area of Accra.\n\r\nThe deceased, Nana Yaw Kyere, a mobile phone dealer at Nkrumah Circle area of Accra, ...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/general-news/police-provide-details-on-how-3-arrested-suspects-were-involved-in-kidnap-murder-of-circle-phone-dealer-nana-yaw-kyere-at-teshie-and-how-they-transported-his-body-to-community-18-to-burn-it-to-conceal-evidence.html"
+        },
+        {
+          "id": "gh-1790632805589-856",
+          "title": "New road rules: Police explain tyre, tint, parking rules ahead of October 1 automated enforcement",
+          "source": "Graphic Online",
+          "time": "10:40 AM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The Motor Traffic and Transport Department (MTTD) of the Ghana Police Service has explained some of the requirements under the new Road Traffic Regulations, 2026 (L.I. 2519), ahead of the start of full automated traffic enforcement on October 1, 2026...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/general-news/mttd-explains-new-road-rules-as-automated-traffic-enforcement-starts-october-1.html"
+        },
+        {
+          "id": "gh-1790632805589-683",
+          "title": "Strike: Controller says GES submitted information on only 6,079 out 58,620 expected promotions",
+          "source": "Graphic Online",
+          "time": "09:37 AM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The Controller and Accountant-General’s Department (CAGD) says it has processed and paid all 6,079 newly promoted teachers, whose names were submitted by the Ghana Education Service (GES).\n\r\nRead More …",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/general-news/strike-controller-says-ges-submitted-information-on-only-6-079-out-58-620-expected-promotions.html"
+        },
+        {
+          "id": "gh-1790632805589-13",
+          "title": "Four confirmed dead, one injured in dawn crash involving Voxy and truck at Anyinasin Junction on Accra-Kumasi N1 highway crash",
+          "source": "Graphic Online",
+          "time": "01:26 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "Four people have died and one person has been injured in a fatal road crash involving a Toyota Voxy and a MAN Diesel trailer at Anyinasin Junction on the Accra-Kumasi N1 Highway.\n\r\nThe crash happened at dawn on Monday (September 28) around 5:20am.\n\r\n...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/general-news/four-dead-one-injured-in-anyinasin-junction-highway-crash.html"
+        },
+        {
+          "id": "gh-1790632805588-236",
+          "title": "Tema Port: Customs intercept assault rifle, two pistols and 610 rounds of ammunition being smuggled into Ghana",
+          "source": "Graphic Online",
+          "time": "03:23 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "An assault rifle, two pistols and 610 rounds of ammunition, which were being smuggled into Ghana under the guise as personal effects have been intercepted by Customs at the Golden Jubilee Terminal of the Tema Port.\n\r\nThey had been concealed among per...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/general-news/customs-intercepts-assault-rifle-two-pistols-and-610-rounds-of-ammunition-being-smuggled-into-ghana-at-tema-port.html"
+        },
+        {
+          "id": "gh-1790632805584-150",
+          "title": "NSA releases PIN codes for national service defaulters, private candidates",
+          "source": "Graphic Online",
+          "time": "03:49 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "The National Service Authority (NSA) has released PIN codes for qualified private candidates, past national service defaulters and foreign-trained graduates for the 2026/2027 national service year.\n\r\nA statement dated Monday, September 28, 2026, issu...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.graphic.com.gh/news/general-news/national-service-authority-gives-defaulters-second-chance-with-2026-27-pin-codes.html"
+        },
         {
           "id": "gh-2026-09-28-01",
           "title": "Nationwide Teacher Strike Paralyzes Public Schools Across Ghana; Education Minister Convenes Emergency Meeting",
@@ -230,6 +678,20 @@
         },
         {
           "id": "gh-2026-09-28-03",
+          "title": "Bank of Ghana Monetary Policy Committee Convenes 120th Sitting on Inflation and Cedi Stability",
+          "source": "Bank of Ghana / Bloomberg",
+          "time": "03:15 PM",
+          "category": "Monetary Policy & Economy",
+          "summary": "The Monetary Policy Committee (MPC) of the Bank of Ghana commenced its 120th regular meetings to assess macroeconomic developments. Deliberations centered on consumer price index declines, foreign exchange reserve buffers, and the policy benchmark rate ahead of Wednesday's press conference.",
+          "keyPoints": [
+            "Headline inflation trends showing signs of continued moderation.",
+            "Cedi stability bolstered by improved gold-for-oil barter receipts and IMF disbursements.",
+            "Commercial banks' non-performing loan (NPL) ratios under close regulatory surveillance."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-28-04",
           "title": "Fatal Highway Accident at Anyinasin Junction Leaves Four Dead; Road Safety Authority Urges Stricter Enforcement",
           "source": "MyJoyOnline",
           "time": "04:45 PM",
@@ -241,9 +703,275 @@
             "Lawmakers demand accelerated dualization of major transport arteries linking the capital to the north."
           ],
           "readTime": "2 min read"
+        },
+        {
+          "id": "gh-2026-09-28-05",
+          "title": "Organized Labor Issues One-Week Ultimatum to Government Demanding Total Ban on Mining in Forest Reserves",
+          "source": "Joy News / Graphic",
+          "time": "06:10 PM",
+          "category": "Environmental Governance & Civil Society",
+          "summary": "The Trades Union Congress (TUC) and the Coalition of Environmental NGOs held a joint press conference in Accra issuing an ultimatum to President Nana Akufo-Addo to declare a state of emergency over illegal mining (galamsey) and revoke Environmental Protection Agency permits issued for forest reserves.",
+          "keyPoints": [
+            "Organized Labor warned of nationwide industrial strikes if government fails to act by October 5.",
+            "Ghana Water Company reported severe treatment plant shutdowns due to river turbidity levels.",
+            "Presidency scheduled an emergency meeting with labor chiefs for Tuesday."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-28-06",
+          "title": "Electoral Commission Meets Inter-Party Advisory Committee (IPAC) on Voter Register Re-check",
+          "source": "Citi Newsroom",
+          "time": "07:30 PM",
+          "category": "Electoral Politics",
+          "summary": "The EC convened an extraordinary IPAC session with executives of the NPP, NDC, and other registered political parties. The commission demonstrated digital audit trails resolving discrepancies noted during the recent provisional register exhibition, reaffirming commitment to delivering an untainted voter roll.",
+          "keyPoints": [
+            "Technical presentation delivered by EC IT directors addressing voter transfer queries.",
+            "Opposition party representatives demanded an independent forensic audit of the biometric database.",
+            "Peace Council observers urged constructive compromise to sustain public electoral confidence."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-28-07",
+          "title": "Ministry of Health Announces Deployment of 8,000 Nurses and Midwives to District Facilities",
+          "source": "Daily Graphic",
+          "time": "08:45 PM",
+          "category": "Healthcare Governance",
+          "summary": "The Ministry of Health, in conjunction with the Ministry of Finance, cleared financial clearance protocols for the immediate posting of over 8,000 nursing and midwifery graduates to community-based health planning (CHPS) compounds and rural district hospitals.",
+          "keyPoints": [
+            "Special incentives provided for personnel posted to underserved rural districts.",
+            "Move designed to curb healthcare brain drain to the United Kingdom and North America.",
+            "Hospital management boards instructed to process immediate onboarding."
+          ],
+          "readTime": "2 min read"
         }
       ],
       "internationalNews": [
+        {
+          "id": "intl-1790632812389-641",
+          "title": "Trump announces $15bn steel mill project in Iowa before US midterms",
+          "source": "Al Jazeera",
+          "time": "08:04 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Amid tight Iowa midterm races, US President Trump emphasises steel industry revival with a project announcement.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss"
+        },
+        {
+          "id": "intl-1790632812389-747",
+          "title": "Gaza’s young inventors build robots with what they have",
+          "source": "Al Jazeera",
+          "time": "08:34 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "At a youth hackathon in Gaza City, young inventors are developing robots.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss"
+        },
+        {
+          "id": "intl-1790632812389-36",
+          "title": "Slovenia’s U-turn towards Israel",
+          "source": "Al Jazeera",
+          "time": "08:35 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Slovenia’s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss"
+        },
+        {
+          "id": "intl-1790632812389-351",
+          "title": "South Sudan calls for sanctions to be lifted at UNGA",
+          "source": "Al Jazeera",
+          "time": "08:45 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss"
+        },
+        {
+          "id": "intl-1790632812389-768",
+          "title": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
+          "source": "Al Jazeera",
+          "time": "08:53 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Two giant pandas from China have landed in the United States and are heading to Zoo Atlanta.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss"
+        },
+        {
+          "id": "intl-1790632812389-280",
+          "title": "Olise scores late to grab France 1-0 Nations League win at Belgium",
+          "source": "Al Jazeera",
+          "time": "09:04 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss"
+        },
+        {
+          "id": "intl-1790632812388-247",
+          "title": "Hundreds set up tent encampments in Madrid over housing crisis",
+          "source": "Al Jazeera",
+          "time": "09:12 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss"
+        },
+        {
+          "id": "intl-1790632812388-698",
+          "title": "Gold falls amid rising oil prices and higher US dollar",
+          "source": "Al Jazeera",
+          "time": "09:34 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss"
+        },
+        {
+          "id": "intl-1790632809631-362",
+          "title": "How Ceuta, football and Israel are shaping Morocco's election",
+          "source": "BBC Africa",
+          "time": "08:59 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "intl-1790632809631-514",
+          "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+          "source": "BBC Africa",
+          "time": "11:20 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "intl-1790632809630-317",
+          "title": "Two mass shootings in South Africa leave 28 dead",
+          "source": "BBC Africa",
+          "time": "06:46 AM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "intl-1790632809630-932",
+          "title": "UK judge imposes £100,000 bail condition on Rwanda genocide accused",
+          "source": "BBC Africa",
+          "time": "11:15 AM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Brown is accused of \"killing, directing or encouraging\" the deaths of members of the Tutsi ethnic group in Rwanda. He denies wrongdoing.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.bbc.co.uk/news/articles/ck24j08v1zd0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "intl-1790632809630-979",
+          "title": "Why are Ethiopia's rebels joining forces?",
+          "source": "BBC Africa",
+          "time": "01:21 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Seven rebel groups from across Ethiopia have announced a new alliance against Prime Minister Abiy Ahmed's government.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.bbc.co.uk/news/videos/c6n45epzdgk8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "intl-1790632809630-531",
+          "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+          "source": "BBC Africa",
+          "time": "03:39 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "intl-1790632809630-508",
+          "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
+          "source": "BBC Africa",
+          "time": "04:25 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police.",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "intl-1790632809629-466",
+          "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+          "source": "BBC Africa",
+          "time": "05:26 PM",
+          "category": "International Politics & Foreign Affairs",
+          "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+          "keyPoints": [
+            "International diplomatic and regional security dispatch.",
+            "Monitored through multilateral agencies and accredited media."
+          ],
+          "readTime": "3 min read",
+          "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "id": "intl-2026-09-28-01",
           "title": "UN Security Council Holds High-Stakes Consultations on Middle East Ceasefire Mandate",
@@ -283,6 +1011,62 @@
             "Heaviest frontline fighting reported in the sector in over five months.",
             "Humanitarian organizations warn thousands of civilians trapped near the line of contact.",
             "UN Special Envoy for Yemen called for an immediate return to de-escalation talks."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-28-04",
+          "title": "Haiti Multinational Security Mission: Kenya-Led Police Units Expand Pacification Patrols",
+          "source": "Miami Herald / AP",
+          "time": "07:45 PM",
+          "category": "Peacekeeping & Caribbean Affairs",
+          "summary": "Kenyan police officers commanding the UN-authorized Multinational Security Support (MSS) mission in Haiti, operating alongside Haitian National Police units, broke gang barricades in critical commercial avenues in downtown Port-au-Prince. The Haitian transitional government reported that the joint operations are beginning to restore freight access to the sea terminal.",
+          "keyPoints": [
+            "Commercial seaport operations gradually resuming under heavy security escort.",
+            "Additional contingents from Jamaica and the Bahamas arrived to reinforce patrols.",
+            "US Secretary of State called for renewed bilateral contributions to sustain mission logistics."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-28-05",
+          "title": "United States Presidential Campaign: Candidates Spar Over Foreign Tariffs and Global Alliances",
+          "source": "The Washington Post / Reuters",
+          "time": "08:50 PM",
+          "category": "US Politics & Global Trade",
+          "summary": "With five weeks remaining until the US presidential election, foreign policy clashes intensified. Former President Donald Trump proposed across-the-board 20% tariffs on imported goods and renegotiating defense commitments with NATO allies, while Vice President Kamala Harris warned that blanket tariffs would trigger global inflation and rupture strategic alliances in Europe and the Indo-Pacific.",
+          "keyPoints": [
+            "Trump argued aggressive tariffs will force manufacturing jobs back to domestic hubs.",
+            "Harris emphasized multilateral trade partnerships and predictable supply chains.",
+            "Developing markets closely analyzing potential impacts on dollar exchange rates and commodity exports."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-28-06",
+          "title": "China-Africa Forum (FOCAC) Technical Committees Begin Disbursement Reviews for Energy Projects",
+          "source": "Xinhua / South China Morning Post",
+          "time": "09:30 PM",
+          "category": "Economic Diplomacy & Infrastructure",
+          "summary": "Joint technical committees comprising Chinese development banks and African finance ministries convened in Beijing to operationalize the $50 billion financial commitment pledged during the recent FOCAC summit. The review prioritized green energy grid interconnections, cross-border rail logistics, and local industrial manufacturing parks.",
+          "keyPoints": [
+            "Emphasis shifted from sovereign-debt-backed mega projects to public-private partnerships (PPP).",
+            "Renewable energy investments (solar and hydro) to receive over 40% of initial disbursements.",
+            "African finance ministers pushed for currency swap agreements to reduce dollar repayment pressure."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-28-07",
+          "title": "International Criminal Court Prosecutor Appeals for Member State Support on Warrants Enforcement",
+          "source": "ICC Assembly / Euronews",
+          "time": "10:10 PM",
+          "category": "International Justice & Human Rights",
+          "summary": "ICC Chief Prosecutor Karim Khan addressed an assembly of states parties in The Hague, stressing that the integrity of the Rome Statute system relies fundamentally on state cooperation to execute arrest warrants without political exceptionalism across ongoing investigations in Ukraine, the Middle East, and Sudan.",
+          "keyPoints": [
+            "Reminded member states of their statutory obligations under Part IX of the Rome Statute.",
+            "Warned that double standards in enforcing international law erode multilateral credibility.",
+            "Announced expanded prosecutorial missions to investigate gender-based crimes in Darfur."
           ],
           "readTime": "3 min read"
         }

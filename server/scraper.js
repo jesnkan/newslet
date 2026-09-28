@@ -125,7 +125,8 @@ export async function scrapeDailyNews(targetDateStr = null) {
     try {
       const feed = await parser.parseURL(feedConfig.url);
       if (feed && feed.items) {
-        for (const item of feed.items.slice(0, 10)) {
+        // Process all available items from feed without artificial cap
+        for (const item of feed.items) {
           if (isPoliticallyRelevant(item.title || '', item.contentSnippet || item.content || '')) {
             const snippet = item.contentSnippet || item.content || item.title || '';
             newGhana.push({
@@ -155,7 +156,8 @@ export async function scrapeDailyNews(targetDateStr = null) {
     try {
       const feed = await parser.parseURL(feedConfig.url);
       if (feed && feed.items) {
-        for (const item of feed.items.slice(0, 10)) {
+        // Process all available items from feed without artificial cap
+        for (const item of feed.items) {
           if (isPoliticallyRelevant(item.title || '', item.contentSnippet || item.content || '')) {
             const snippet = item.contentSnippet || item.content || item.title || '';
             newIntl.push({
