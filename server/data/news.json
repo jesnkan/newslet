@@ -1,0 +1,342 @@
+{
+  "lastUpdated": "2026-09-28T21:40:00Z",
+  "schedule": "10:00 PM Daily",
+  "period": "September 26 – October 3, 2026",
+  "days": {
+    "2026-09-26": {
+      "date": "2026-09-26",
+      "dayName": "Saturday",
+      "displayDate": "Saturday, 26th September 2026",
+      "headlineCount": 6,
+      "summary": "Ghana debates newly announced cocoa producer pricing while UN General Assembly in New York faces mass walkouts over Middle East escalation.",
+      "ghanaNews": [
+        {
+          "id": "gh-2026-09-26-01",
+          "title": "NPP Challenges Government's New Cocoa Producer Price of GH¢2,650 per Bag for 2026/27 Season",
+          "source": "Graphic Online",
+          "time": "11:15 AM",
+          "category": "Economic Policy & Agriculture",
+          "summary": "The New Patriotic Party (NPP) officially rejected the government's newly announced farm-gate cocoa price of GH¢2,650 per 64kg bag. The opposition contends the rate is significantly below the statutory 70% share of gross Free-on-Board (FOB) export value, failing to protect cocoa farmers amidst global bean price surges and domestic inflation.",
+          "keyPoints": [
+            "Government set 2026/27 crop price at GH¢2,650 per 64kg bag.",
+            "Opposition claims farmers are shortchanged against international spot market highs.",
+            "COCOBOD maintains the price balances farmers' welfare with fiscal sustainability and smuggling control."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-26-02",
+          "title": "Minority in Parliament Files Urgent Motion for Bipartisan Inquiry into Narcotic Interceptions",
+          "source": "Citi Newsroom",
+          "time": "02:40 PM",
+          "category": "Governance & Parliamentary Affairs",
+          "summary": "The Minority caucus in Parliament submitted a formal request to the Speaker demanding an ad-hoc bipartisan probe into recent multi-million dollar cocaine and methamphetamine seizures traced to transit routes through Ghana. Lawmakers argued border intelligence at key ports requires urgent structural review.",
+          "keyPoints": [
+            "Motion demands parliamentary scrutiny of Narcotics Control Commission (NACOC) and port security.",
+            "Calls for cross-border cooperation with foreign drug enforcement agencies.",
+            "Speaker's office expected to schedule floor debate in the upcoming parliamentary sitting."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-26-03",
+          "title": "Customs Intercepts Assault Weapons and Ammunition Smuggled Through Tema Port Container Terminal",
+          "source": "MyJoyOnline",
+          "time": "05:10 PM",
+          "category": "National Security & Customs",
+          "summary": "The Customs Division of the Ghana Revenue Authority (GRA), working with national security intelligence, intercepted an undeclared consignment containing an assault rifle, two pistols, and hundreds of rounds of live ammunition concealed inside a consolidated personal effects container shipped from North America.",
+          "keyPoints": [
+            "Weapons uncovered during rigorous physical examination of suspect containers.",
+            "Two clearing agents and the consignee's local representative detained for questioning.",
+            "Security agencies step up scanning protocols ahead of December national elections."
+          ],
+          "readTime": "2 min read"
+        }
+      ],
+      "internationalNews": [
+        {
+          "id": "intl-2026-09-26-01",
+          "title": "Dozens of Diplomatic Delegations Walk Out of UN General Assembly During Israeli Prime Minister's Speech",
+          "source": "Reuters / UN News",
+          "time": "01:00 PM",
+          "category": "UN & Multilateral Affairs",
+          "summary": "Envoys from approximately 70 countries walked out of the UN General Assembly hall in New York as Israeli Prime Minister Benjamin Netanyahu took the podium. Netanyahu defended ongoing military campaigns in Gaza and Lebanon, while boycotting delegates cited catastrophic civilian casualties and disregard for UN Security Council ceasefire resolutions.",
+          "keyPoints": [
+            "Diplomats from Arab, African, European, and Asian nations exited the assembly hall in protest.",
+            "Netanyahu delivered an unyielding address insisting on military victory over regional adversaries.",
+            "UN Secretary-General reiterated urgent appeals for regional de-escalation."
+          ],
+          "readTime": "4 min read"
+        },
+        {
+          "id": "intl-2026-09-26-02",
+          "title": "German Foreign Minister Engages Russian Counterpart Sergey Lavrov on UNGA Sidelines",
+          "source": "Al Jazeera / DW",
+          "time": "04:30 PM",
+          "category": "International Diplomacy & Geopolitics",
+          "summary": "In a rare direct diplomatic contact since the escalation of the Ukraine war, German Foreign Minister Johann Wadephul held bilateral discussions with Russian Foreign Minister Sergey Lavrov on the sidelines of the UN General Assembly in New York, urging Russia to halt escalating rhetoric and open viable peace dialogue.",
+          "keyPoints": [
+            "First high-level German-Russian foreign minister contact in months on UN sidelines.",
+            "Focus placed on nuclear safety around Ukrainian energy facilities and prisoner exchanges.",
+            "No immediate breakthrough on core sovereignty and territorial integrity disputes."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-26-03",
+          "title": "Sudanese Foreign Minister Condemns Global Inaction on Civil War at UN General Assembly",
+          "source": "BBC News Africa",
+          "time": "07:20 PM",
+          "category": "African Politics & Humanitarian Affairs",
+          "summary": "Sudan's Foreign Minister addressed the 81st UN General Assembly, harshly criticizing the international community's muted response to the devastating civil war between the Sudanese Armed Forces and the Rapid Support Forces (RSF). The minister called on the UN to designate the RSF a terrorist entity and halt external weapons supply chains fueling mass displacement in Darfur.",
+          "keyPoints": [
+            "Condemned foreign interference and arming of paramilitary combatants.",
+            "Highlighted that over 10 million Sudanese are currently displaced, facing severe famine.",
+            "Demanded strict enforcement of existing UN arms embargoes."
+          ],
+          "readTime": "3 min read"
+        }
+      ]
+    },
+    "2026-09-27": {
+      "date": "2026-09-27",
+      "dayName": "Sunday",
+      "displayDate": "Sunday, 27th September 2026",
+      "headlineCount": 6,
+      "summary": "Major teacher unions confirm nationwide industrial action for Monday; Lebanon rejects being used as a proxy battleground as diplomatic efforts stall.",
+      "ghanaNews": [
+        {
+          "id": "gh-2026-09-27-01",
+          "title": "Teacher Unions (GNAT, NAGRAT, CCT) Finalize Nationwide Strike Scheduled for Monday, Sept 28",
+          "source": "Citi Newsroom",
+          "time": "10:30 AM",
+          "category": "Labor & Public Education",
+          "summary": "The leadership of the Ghana National Association of Teachers (GNAT), National Association of Graduate Teachers (NAGRAT), and Coalition of Concerned Teachers (CCT) reaffirmed that their nationwide strike will begin early Monday morning. The labor action follows protracted deadlock with the Fair Wages and Salaries Commission over unpaid allowances and delayed career progression promotions.",
+          "keyPoints": [
+            "Classrooms across all public basic and senior high schools set to remain closed.",
+            "Demands include payment of Deprived Area Allowance and backlog of promotional arrears.",
+            "Education Ministry called an emergency conciliation session for Monday morning."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-27-02",
+          "title": "Ministry of Food & Agriculture Warns Finance Ministry Over Looming World Bank Programme Exit",
+          "source": "Graphic Online",
+          "time": "02:15 PM",
+          "category": "Governance & Fiscal Policy",
+          "summary": "Internal memos revealed the Ministry of Food and Agriculture (MoFA) strongly cautioned the Ministry of Finance against withdrawing from the West Africa Food System Resilience Programme (FSRP). MoFA warned that abrupt withdrawal places over GH¢643 million in ongoing agricultural infrastructure and irrigation projects across the northern regions at grave risk.",
+          "keyPoints": [
+            "FSRP funds critical post-harvest storage, grain reserves, and community dams.",
+            "Finance Ministry had considered reallocating matching state counter-funds.",
+            "Agricultural stakeholders urge Cabinet to intervene to preserve development donor ties."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-27-03",
+          "title": "Presidential Candidates Step Up Engagements with Professional Bodies Ahead of December Polls",
+          "source": "MyJoyOnline",
+          "time": "06:00 PM",
+          "category": "National Politics & Elections",
+          "summary": "Both Vice President Dr. Mahamudu Bawumia (NPP) and former President John Dramani Mahama (NDC) intensified policy roundtables with professional associations over the weekend. Key sessions were held with the National Executive Committee of the Ghana Medical Association (GMA) and university labor unions focusing on tax relief, healthcare retention, and cost-of-living stabilization.",
+          "keyPoints": [
+            "Bawumia pledged tax credits and digitized healthcare procurement reforms.",
+            "Mahama outlined 24-hour economy incentives and domestic manufacturing tax holidays.",
+            "Professional bodies demanded binding social contract pacts prior to election day."
+          ],
+          "readTime": "3 min read"
+        }
+      ],
+      "internationalNews": [
+        {
+          "id": "intl-2026-09-27-01",
+          "title": "Lebanese Prime Minister Declares Country Will Not Be a 'Bargaining Chip' in Regional Warfare",
+          "source": "Al Jazeera / BBC World",
+          "time": "12:15 PM",
+          "category": "Middle East & Regional Security",
+          "summary": "Lebanese Prime Minister Nawaf Salam delivered an impassioned statement warning that Lebanon refuses to be an arena for foreign power struggles or a sacrificial bargaining chip. He demanded an immediate, unconditional ceasefire, rapid deployment of the Lebanese Armed Forces south of the Litani River, and full adherence to UN Security Council Resolution 1701.",
+          "keyPoints": [
+            "Condemned continuous aerial bombardment and mounting civilian displacement across southern Lebanon.",
+            "Demanded full implementation of UN Resolution 1701 by all combatant parties.",
+            "Appealed to the UN Security Council for emergency humanitarian corridors and medical logistics."
+          ],
+          "readTime": "4 min read"
+        },
+        {
+          "id": "intl-2026-09-27-02",
+          "title": "US-Iran Diplomatic Channels at UNGA Stumble Over Hormuz Security and Sanctions Modalities",
+          "source": "Reuters / CBS News",
+          "time": "03:40 PM",
+          "category": "International Diplomacy & Energy Geopolitics",
+          "summary": "Exploratory indirect discussions between US envoys and Iranian diplomats on the margins of the UN General Assembly hit major obstacles. The White House indicated it rejected an Iranian offer to guarantee commercial transit through the Strait of Hormuz in exchange for swift relief on crude export sanctions, citing ongoing regional militia operations.",
+          "keyPoints": [
+            "Strait of Hormuz remains a critical global transit corridor for roughly 20% of world petroleum.",
+            "Iranian President stated readiness for nuclear inspection transparency if sanctions are dialed back.",
+            "Talks adjourned without joint communiqué, though backchannel communications remain open."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-27-03",
+          "title": "European Union Pledges €180 Million Crisis Relief Fund for Displaced Populations Across Africa",
+          "source": "ReliefWeb / Euronews",
+          "time": "07:50 PM",
+          "category": "Foreign Aid & Multilateral Development",
+          "summary": "The European Commission concluded its UNGA diplomatic engagements by approving a €180 million emergency assistance package targeted at internally displaced communities in the Sahel, Sudan, and the Great Lakes region. EU foreign policy chiefs stressed that humanitarian stabilization in Africa is directly tied to managing global migration pressures.",
+          "keyPoints": [
+            "Funding directed through UN agencies to provide emergency food rations and water infrastructure.",
+            "Special allocations earmarked for Chad, South Sudan, and Niger hosting conflict refugees.",
+            "European leaders highlighted development cooperation as a strategic pillar of EU-Africa relations."
+          ],
+          "readTime": "2 min read"
+        }
+      ]
+    },
+    "2026-09-28": {
+      "date": "2026-09-28",
+      "dayName": "Monday",
+      "displayDate": "Monday, 28th September 2026 (Today)",
+      "headlineCount": 6,
+      "summary": "Today's developments: Nationwide teachers' strike takes effect across Ghana as government opens crisis talks; intense UN Security Council debates continue.",
+      "ghanaNews": [
+        {
+          "id": "gh-2026-09-28-01",
+          "title": "Nationwide Teacher Strike Paralyzes Public Schools Across Ghana; Education Minister Convenes Emergency Meeting",
+          "source": "Citi Newsroom / Graphic Online",
+          "time": "09:00 AM",
+          "category": "Labor Governance & Education",
+          "summary": "Public primary, junior high, and senior high schools nationwide shut down this morning following the total withdrawal of teaching services by GNAT, NAGRAT, and CCT. Millions of students were turned back home as union members strictly adhered to the strike declaration. Education Minister Haruna Iddrisu convened union executives and Controller and Accountant-General officials to find an urgent resolution.",
+          "keyPoints": [
+            "Zero teaching activity recorded in government schools across all 16 regions.",
+            "Controller & Accountant-General confirmed processing of some promotions, but unions demand full settlement.",
+            "Ministry is proposing an expedited payment plan to avert prolonged academic disruption."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-28-02",
+          "title": "National Service Authority Releases PIN Codes for 2026/27 Cohort and Foreign-Trained Graduates",
+          "source": "Ghana News Agency",
+          "time": "01:30 PM",
+          "category": "Governance & Youth Employment",
+          "summary": "The newly upgraded National Service Authority (NSA) officially opened its online registration portal, releasing PIN codes for qualified Ghanaian graduates from local tertiary institutions, private colleges, and accredited foreign universities for the 2026/2027 mandatory service period.",
+          "keyPoints": [
+            "Covers over 130,000 prospective service personnel across public and private sectors.",
+            "Strict biometric verification introduced to eliminate ghost personnel on public payrolls.",
+            "Prospective personnel directed to complete verification ahead of mid-October deployment."
+          ],
+          "readTime": "2 min read"
+        },
+        {
+          "id": "gh-2026-09-28-03",
+          "title": "Fatal Highway Accident at Anyinasin Junction Leaves Four Dead; Road Safety Authority Urges Stricter Enforcement",
+          "source": "MyJoyOnline",
+          "time": "04:45 PM",
+          "category": "Public Safety & Transport Governance",
+          "summary": "A head-on collision between a commercial sprinter bus and a haulage truck at Anyinasin Junction on the Accra-Kumasi highway resulted in four immediate fatalities and numerous severe injuries. The National Road Safety Authority (NRSA) and Motor Traffic and Transport Department (MTTD) reiterated calls for strict speed governor enforcement on inter-city transit routes.",
+          "keyPoints": [
+            "Accident occurred during early morning heavy rainfall and reduced visibility.",
+            "Survivors currently receiving emergency care at Suhum Government Hospital.",
+            "Lawmakers demand accelerated dualization of major transport arteries linking the capital to the north."
+          ],
+          "readTime": "2 min read"
+        }
+      ],
+      "internationalNews": [
+        {
+          "id": "intl-2026-09-28-01",
+          "title": "UN Security Council Holds High-Stakes Consultations on Middle East Ceasefire Mandate",
+          "source": "Reuters / UN News",
+          "time": "11:45 AM",
+          "category": "UN & Multilateral Affairs",
+          "summary": "The UN Security Council in New York entered closed consultations to negotiate a draft resolution calling for an immediate and enforceable cessation of hostilities across Lebanon and Gaza. Non-permanent members urged adoption under Chapter VII terms to compel compliance, but discussions face deep division among the P5 permanent members regarding enforcement mechanisms.",
+          "keyPoints": [
+            "Diplomats seeking agreement on humanitarian access and civilian protection benchmarks.",
+            "Draft includes strict timeline for border de-escalation along the UN Blue Line.",
+            "Western and Eastern permanent members remain split over condemnation clauses."
+          ],
+          "readTime": "4 min read"
+        },
+        {
+          "id": "intl-2026-09-28-02",
+          "title": "UK Counter-Terror Police Investigate Arrest of Five Men Near US-Operated RAF Air Base",
+          "source": "BBC World",
+          "time": "03:15 PM",
+          "category": "International Security",
+          "summary": "British counter-terrorism police confirmed the detention of five individuals intercepted in suspicious circumstances near a Royal Air Force base in eastern England used by the United States military for regional reconnaissance and missile-defense coordination. Investigators are probing whether hostile state surveillance or illicit espionage was involved.",
+          "keyPoints": [
+            "Suspects detained under Section 41 of the Terrorism Act.",
+            "Air base security cordons immediately tightened across sensitive defense installations.",
+            "Ministry of Defence stated normal operational readiness remains unaffected."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-28-03",
+          "title": "Yemen Conflict Escalates as Government Forces Launch Operations Against Houthi Fortifications Near Taiz",
+          "source": "Al Jazeera",
+          "time": "06:30 PM",
+          "category": "Middle East Security & Geopolitics",
+          "summary": "Yemeni government military units engaged in fierce artillery duels and tactical ground advances against fortified Houthi positions on the western outskirts of Taiz. The renewed clashes threaten fragile UN-sponsored truce frameworks and further jeopardize commercial shipping stability in the southern Red Sea and Bab al-Mandab strait.",
+          "keyPoints": [
+            "Heaviest frontline fighting reported in the sector in over five months.",
+            "Humanitarian organizations warn thousands of civilians trapped near the line of contact.",
+            "UN Special Envoy for Yemen called for an immediate return to de-escalation talks."
+          ],
+          "readTime": "3 min read"
+        }
+      ]
+    },
+    "2026-09-29": {
+      "date": "2026-09-29",
+      "dayName": "Tuesday",
+      "displayDate": "Tuesday, 29th September 2026",
+      "status": "Nightly 10:00 PM Briefing Queue",
+      "headlineCount": 0,
+      "summary": "Scheduled for nightly scraping and concise synthesis at 10:00 PM.",
+      "ghanaNews": [],
+      "internationalNews": []
+    },
+    "2026-09-30": {
+      "date": "2026-09-30",
+      "dayName": "Wednesday",
+      "displayDate": "Wednesday, 30th September 2026",
+      "status": "Nightly 10:00 PM Briefing Queue",
+      "headlineCount": 0,
+      "summary": "Scheduled for nightly scraping and concise synthesis at 10:00 PM.",
+      "ghanaNews": [],
+      "internationalNews": []
+    },
+    "2026-10-01": {
+      "date": "2026-10-01",
+      "dayName": "Thursday",
+      "displayDate": "Thursday, 1st October 2026",
+      "status": "Nightly 10:00 PM Briefing Queue",
+      "headlineCount": 0,
+      "summary": "Scheduled for nightly scraping and concise synthesis at 10:00 PM.",
+      "ghanaNews": [],
+      "internationalNews": []
+    },
+    "2026-10-02": {
+      "date": "2026-10-02",
+      "dayName": "Friday",
+      "displayDate": "Friday, 2nd October 2026",
+      "status": "Nightly 10:00 PM Briefing Queue",
+      "headlineCount": 0,
+      "summary": "Scheduled for nightly scraping and concise synthesis at 10:00 PM.",
+      "ghanaNews": [],
+      "internationalNews": []
+    },
+    "2026-10-03": {
+      "date": "2026-10-03",
+      "dayName": "Saturday",
+      "displayDate": "Saturday, 3rd October 2026",
+      "status": "Nightly 10:00 PM Briefing Queue",
+      "headlineCount": 0,
+      "summary": "Scheduled for nightly scraping and concise synthesis at 10:00 PM.",
+      "ghanaNews": [],
+      "internationalNews": []
+    }
+  }
+}
