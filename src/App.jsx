@@ -219,11 +219,21 @@ export default function App() {
     return (
       <div className="simple-loader-overlay">
         <div className="simple-spinner" />
-        <div style={{ fontFamily: 'var(--font-serif)', fontSize: '1.25rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.25rem' }}>
-          newslet.
+        <div style={{ fontFamily: 'var(--font-serif)', fontSize: '1.45rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.25rem' }}>
+          newslet<span className="brand-dot">.</span>
+        </div>
+        <div style={{
+          fontSize: '0.82rem',
+          fontWeight: 700,
+          color: '#2563eb',
+          letterSpacing: '0.08em',
+          textTransform: 'uppercase',
+          marginBottom: '0.35rem'
+        }}>
+          Curated for Eyram
         </div>
         <p style={{ fontSize: '0.85rem', color: '#64748b' }}>
-          Loading daily political intelligence...
+          Preparing your daily Ghana & international politics digest...
         </p>
       </div>
     );
@@ -236,8 +246,19 @@ export default function App() {
         <div className="header-inner">
           {/* Brand */}
           <div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
               <span className="brand-title">newslet<span className="brand-dot">.</span></span>
+              <span style={{
+                background: '#0f172a',
+                color: '#ffffff',
+                fontSize: '0.7rem',
+                fontWeight: 800,
+                padding: '0.15rem 0.55rem',
+                borderRadius: '4px',
+                letterSpacing: '0.05em'
+              }}>
+                FOR EYRAM
+              </span>
               <span style={{
                 background: '#f1f5f9',
                 color: '#334155',
@@ -251,7 +272,7 @@ export default function App() {
               </span>
             </div>
             <div className="brand-tagline">
-              Concise, detailed daily intelligence • Sept 26 to Oct 3, 2026
+              Concise, detailed daily intelligence for Eyram • Sept 26 to Oct 3, 2026
             </div>
           </div>
 
@@ -418,15 +439,27 @@ export default function App() {
             marginBottom: '1.5rem',
             boxShadow: 'var(--shadow-subtle)'
           }}>
-            <h1 style={{
-              fontFamily: 'var(--font-serif)',
-              fontSize: '1.4rem',
-              fontWeight: 800,
-              color: '#0f172a',
-              marginBottom: '0.35rem'
-            }}>
-              {dayData.displayDate || selectedDate}
-            </h1>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.5rem', marginBottom: '0.35rem' }}>
+              <h1 style={{
+                fontFamily: 'var(--font-serif)',
+                fontSize: '1.4rem',
+                fontWeight: 800,
+                color: '#0f172a'
+              }}>
+                {dayData.displayDate || selectedDate}
+              </h1>
+              <span style={{
+                fontSize: '0.78rem',
+                fontWeight: 700,
+                color: '#1d4ed8',
+                background: '#eff6ff',
+                border: '1px solid #bfdbfe',
+                padding: '0.2rem 0.65rem',
+                borderRadius: '9999px'
+              }}>
+                Eyram's Daily Briefing
+              </span>
+            </div>
             <p style={{ fontSize: '0.92rem', color: '#475569', lineHeight: 1.55 }}>
               {dayData.summary || 'Daily curated dispatches from local Ghanaian governance and international politics.'}
             </p>
