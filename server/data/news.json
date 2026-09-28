@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T22:01:04.909Z",
+  "lastUpdated": "2026-09-28T22:28:36.936Z",
   "schedule": "10:00 PM Daily",
   "period": "September 26 – October 3, 2026",
   "days": {
@@ -365,9 +365,51 @@
       "date": "2026-09-28",
       "dayName": "Monday",
       "displayDate": "Monday, 28th September 2026 (Today)",
-      "headlineCount": 50,
+      "headlineCount": 53,
       "summary": "Nationwide teacher strike shuts schools in Ghana, Bank of Ghana MPC meets on macroeconomic indicators, and high-stakes UN Security Council ceasefire deliberations continue.",
       "ghanaNews": [
+        {
+          "id": "gh-1790634460059-139",
+          "title": "Weak institutional arrangements, high debt servicing constrain Ghana’s rating – S&P",
+          "source": "MyJoyOnline",
+          "time": "10:07 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "Ratings agency, S&P Global has stated that Ghana’s institutional arrangements are weak, but improving. According to the US-based firm, the cost of servicing government debt remains elevated, saying, the weak institutional arrangements and the high se...",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/weak-institutional-arrangements-high-debt-servicing-constrain-ghanas-rating-sp/"
+        },
+        {
+          "id": "gh-1790634460059-926",
+          "title": "Strategy of accumulating foreign reserves, gold carries high fiscal cost – S&P Global",
+          "source": "MyJoyOnline",
+          "time": "10:13 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "According to the US-based rating agency, although the gold sector is fueling the accumulation of reserves, implementing Ghana Accelerated National Reserves Accumulation Program (GANRAP) will cause the government to incur high local currency costs.",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/strategy-of-accumulating-foreign-reserves-gold-carries-high-fiscal-cost-sp/"
+        },
+        {
+          "id": "gh-1790634460059-10",
+          "title": "Interest payments to average a high 20% of government revenue over next 4 years",
+          "source": "MyJoyOnline",
+          "time": "10:28 PM",
+          "category": "Ghana Politics & Governance",
+          "summary": "According to the US-based firm, the reduction is underpinned by the effects of debt restructuring, the cedi's exchange rate appreciation in 2025 and lower local currency financing costs, as inflation and local interest rates fell to multiyear lows.",
+          "keyPoints": [
+            "Primary report from local administrative and political reporting.",
+            "Cross-verified through official statements and press briefings."
+          ],
+          "readTime": "2 min read",
+          "link": "https://www.myjoyonline.com/interest-payments-to-average-a-high-20-of-government-revenue-over-next-4-years/"
+        },
         {
           "id": "gh-1790632807418-353",
           "title": "MoFA urges Finance Ministry to reverse World Bank food programme withdrawal over GH¢643m commitments",

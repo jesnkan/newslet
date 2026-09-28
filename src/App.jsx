@@ -116,7 +116,60 @@ export default function App() {
     }
   }
 
-  // Audio Speech Handler for single article
+  // Available voices state
+  const [selectedVoice, setSelectedVoice] = useState(null);
+
+  // Load and pick the best natural female voice on mount and onvoiceschanged
+  useEffect(() => {
+    function loadVoices() {
+      if (!('speechSynthesis' in window)) return;
+      const voices = window.speechSynthesis.getVoices();
+      if (!voices || voices.length === 0) return;
+
+      // Tier 1: Microsoft Natural Online Female Voices (Edge & Chrome)
+      const tier1 = voices.find(v => {
+        const n = v.name.toLowerCase();
+        return (n.includes('natural') || n.includes('online')) && 
+          (n.includes('jenny') || n.includes('aria') || n.includes('sonia') || n.includes('libby') || n.includes('ava') || n.includes('female'));
+      });
+
+      // Tier 2: Google & Apple Natural Female Voices
+      const tier2 = voices.find(v => {
+        const n = v.name.toLowerCase();
+        return (
+          n.includes('google uk english female') ||
+          n.includes('google us english') ||
+          n.includes('samantha') ||
+          n.includes('victoria') ||
+          n.includes('karen') ||
+          n.includes('serena') ||
+          n.includes('fiona')
+        );
+      });
+
+      // Tier 3: Standard Windows Female (Microsoft Zira or any English voice with 'female')
+      const tier3 = voices.find(v => {
+        const n = v.name.toLowerCase();
+        return (n.includes('zira') || n.includes('female')) && v.lang.startsWith('en');
+      });
+
+      // Fallback: any English non-male voice
+      const nonMale = voices.find(v => {
+        const n = v.name.toLowerCase();
+        return v.lang.startsWith('en') && !n.includes('david') && !n.includes('mark') && !n.includes('george') && !n.includes('guy') && !n.includes('male');
+      });
+
+      const best = tier1 || tier2 || tier3 || nonMale || voices[0];
+      setSelectedVoice(best);
+    }
+
+    loadVoices();
+    if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+      window.speechSynthesis.onvoiceschanged = loadVoices;
+    }
+  }, []);
+
+  // Audio Speech Handler for single article with human-like female voice
   function handlePlaySpeech(art) {
     if (!('speechSynthesis' in window)) {
       alert('Speech synthesis is not supported on this browser.');
@@ -132,9 +185,21 @@ export default function App() {
     window.speechSynthesis.cancel();
     setIsPlayingFullDay(false);
 
-    const textToRead = `${art.title}. From ${art.source}. ${art.summary} Key points: ${art.keyPoints ? art.keyPoints.join('. ') : ''}`;
+    // Natural conversational text structure with cadence pauses
+    let textToRead = `${art.title}. ... Reported by ${art.source}. ... ${art.summary} ... `;
+    if (art.keyPoints && art.keyPoints.length > 0) {
+      textToRead += `Here are the key takeaways: ... ${art.keyPoints.join('. ... ')}.`;
+    }
+
     const utterance = new SpeechSynthesisUtterance(textToRead);
-    utterance.rate = 1.0;
+    if (selectedVoice) {
+      utterance.voice = selectedVoice;
+    }
+    // Fine-tuned human speech parameters
+    utterance.rate = 0.94; // slightly slower, conversational tempo
+    utterance.pitch = 1.06; // warm, natural female pitch
+    utterance.volume = 1.0;
+
     utterance.onend = () => setActiveSpeechId(null);
     utterance.onerror = () => setActiveSpeechId(null);
 
@@ -142,7 +207,7 @@ export default function App() {
     window.speechSynthesis.speak(utterance);
   }
 
-  // Full Day Audio Briefing
+  // Full Day Audio Briefing with human-like female voice
   function handlePlayFullDay() {
     if (!('speechSynthesis' in window)) return;
 
@@ -164,23 +229,29 @@ export default function App() {
       return;
     }
 
-    let script = `Newslet briefing for ${dayData?.displayDate || selectedDate}. `;
+    let script = `Hello Eyram. Here is your newslet briefing for ${dayData?.displayDate || selectedDate}. ... `;
     if (ghanaList.length > 0) {
-      script += `Ghana Politics and Governance. `;
+      script += `First, local Ghana politics and governance. ... `;
       ghanaList.forEach((item, i) => {
-        script += `Story ${i + 1}: ${item.title}. ${item.summary} `;
+        script += `Story ${i + 1}: ${item.title}. ... ${item.summary} ... `;
       });
     }
     if (intlList.length > 0) {
-      script += `International Politics and World Affairs. `;
+      script += `Next, international politics and foreign affairs. ... `;
       intlList.forEach((item, i) => {
-        script += `Story ${i + 1}: ${item.title}. ${item.summary} `;
+        script += `Story ${i + 1}: ${item.title}. ... ${item.summary} ... `;
       });
     }
-    script += `End of briefing.`;
+    script += `This concludes your daily newslet intelligence briefing. Have a wonderful day, Eyram.`;
 
     const utterance = new SpeechSynthesisUtterance(script);
-    utterance.rate = 1.0;
+    if (selectedVoice) {
+      utterance.voice = selectedVoice;
+    }
+    utterance.rate = 0.94;
+    utterance.pitch = 1.06;
+    utterance.volume = 1.0;
+
     utterance.onend = () => setIsPlayingFullDay(false);
     utterance.onerror = () => setIsPlayingFullDay(false);
 
@@ -334,25 +405,38 @@ export default function App() {
             </div>
 
             {/* Listen to Day Audio */}
-            <button
-              onClick={handlePlayFullDay}
-              style={{
-                background: isPlayingFullDay ? '#fee2e2' : '#f8fafc',
-                border: `1px solid ${isPlayingFullDay ? '#ef4444' : '#e2e8f0'}`,
-                color: isPlayingFullDay ? '#b91c1c' : '#334155',
-                padding: '0.3rem 0.8rem',
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.45rem' }}>
+              <span style={{
+                fontSize: '0.72rem',
+                color: '#64748b',
+                background: '#f1f5f9',
+                border: '1px solid #e2e8f0',
+                padding: '0.2rem 0.55rem',
                 borderRadius: '9999px',
-                fontSize: '0.78rem',
-                fontWeight: 600,
-                cursor: 'pointer',
-                display: 'flex',
-                alignItems: 'center',
-                gap: '0.4rem'
-              }}
-            >
-              {isPlayingFullDay ? <VolumeX size={14} /> : <Volume2 size={14} />}
-              <span>{isPlayingFullDay ? 'Stop Day Audio' : 'Listen to Full Day Audio'}</span>
-            </button>
+                fontWeight: 600
+              }}>
+                🎙️ Natural Female Voice
+              </span>
+              <button
+                onClick={handlePlayFullDay}
+                style={{
+                  background: isPlayingFullDay ? '#fee2e2' : '#f8fafc',
+                  border: `1px solid ${isPlayingFullDay ? '#ef4444' : '#e2e8f0'}`,
+                  color: isPlayingFullDay ? '#b91c1c' : '#334155',
+                  padding: '0.3rem 0.8rem',
+                  borderRadius: '9999px',
+                  fontSize: '0.78rem',
+                  fontWeight: 600,
+                  cursor: 'pointer',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '0.4rem'
+                }}
+              >
+                {isPlayingFullDay ? <VolumeX size={14} /> : <Volume2 size={14} />}
+                <span>{isPlayingFullDay ? 'Stop Day Audio' : 'Listen to Full Day Audio'}</span>
+              </button>
+            </div>
           </div>
 
           {/* Date Carousel Pills */}
