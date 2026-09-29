@@ -13,8 +13,9 @@ import {
 } from 'lucide-react';
 
 export default function App() {
-  const [loading, setLoading] = useState(true);
-  const [selectedDate, setSelectedDate] = useState('2026-09-28');
+  const todayStr = new Date().toISOString().split('T')[0];
+  const initialDate = (todayStr >= '2026-09-26' && todayStr <= '2026-10-03') ? todayStr : '2026-09-29';
+  const [selectedDate, setSelectedDate] = useState(initialDate);
   const [days, setDays] = useState([]);
   const [dayData, setDayData] = useState(null);
   const [categoryFilter, setCategoryFilter] = useState('all'); // 'all', 'ghana', 'international'
@@ -31,7 +32,7 @@ export default function App() {
   useEffect(() => {
     async function init() {
       await fetchDays();
-      await fetchDayNews('2026-09-28');
+      await fetchDayNews(initialDate);
       setLoading(false);
     }
     init();
@@ -447,7 +448,7 @@ export default function App() {
           }}>
             {days.map((item) => {
               const isSelected = item.date === selectedDate;
-              const isToday = item.date === '2026-09-28' || item.isToday;
+              const isToday = item.date === todayStr;
 
               return (
                 <button

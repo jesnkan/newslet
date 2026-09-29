@@ -11,7 +11,8 @@ const STATUS_FILE = path.join(__dirname, 'data', 'scraper-status.json');
 const parser = new Parser({
   timeout: 8000,
   headers: {
-    'User-Agent': 'NewsletBot/2.0 (Clean News Aggregator)',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+    'Accept': 'application/rss+xml, application/xml, text/xml, */*'
   },
 });
 
@@ -125,7 +126,6 @@ export async function scrapeDailyNews(targetDateStr = null) {
     try {
       const feed = await parser.parseURL(feedConfig.url);
       if (feed && feed.items) {
-        // Process all available items from feed without artificial cap
         for (const item of feed.items) {
           if (isPoliticallyRelevant(item.title || '', item.contentSnippet || item.content || '')) {
             const snippet = item.contentSnippet || item.content || item.title || '';
@@ -156,7 +156,6 @@ export async function scrapeDailyNews(targetDateStr = null) {
     try {
       const feed = await parser.parseURL(feedConfig.url);
       if (feed && feed.items) {
-        // Process all available items from feed without artificial cap
         for (const item of feed.items) {
           if (isPoliticallyRelevant(item.title || '', item.contentSnippet || item.content || '')) {
             const snippet = item.contentSnippet || item.content || item.title || '';
@@ -196,7 +195,7 @@ export async function scrapeDailyNews(targetDateStr = null) {
     }
   }
 
-  dayRecord.headlineCount = dayRecord.ghanaNews.length + dayRecord.internationalNews.length;
+  dayRecord.headlineCount = (dayRecord.ghanaNews?.length || 0) + (dayRecord.internationalNews?.length || 0);
   newsData.days[todayDateStr] = dayRecord;
   newsData.lastUpdated = new Date().toISOString();
   saveNewsData(newsData);

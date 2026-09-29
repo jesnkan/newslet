@@ -73,7 +73,7 @@ app.get('/api/days', (req, res) => {
         date: d,
         dayName: item.dayName,
         displayDate: item.displayDate,
-        isToday: d === todayStr || d === '2026-09-28',
+        isToday: d === todayStr,
         ghanaCount,
         intlCount,
         totalCount: ghanaCount + intlCount,

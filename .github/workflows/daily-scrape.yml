@@ -6,6 +6,9 @@ on:
     - cron: '0 22 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI anytime
 
+permissions:
+  contents: write
+
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
@@ -13,6 +16,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -20,7 +26,7 @@ jobs:
           node-version: 20
 
       - name: Install Dependencies
-        run: npm ci || npm install
+        run: npm install
 
       - name: Run Daily Scraper
         run: node -e "import('./server/scraper.js').then(m => m.scrapeDailyNews())"
@@ -30,12 +36,12 @@ jobs:
 
       - name: Commit and Push Updated News
         run: |
-          git config --global user.name "newslet-bot"
-          git config --global user.email "bot@newslet.local"
-          git add server/data/
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add server/data/ dist/
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Auto-update daily news [10:00 PM GMT]"
-            git push
+            git push origin main
           fi

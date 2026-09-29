@@ -1,11 +1,11 @@
 {
-  "lastScraped": "2026-09-28T22:28:36.937Z",
-  "nextScheduledRun": "2026-09-29T22:00:00.000Z",
+  "lastScraped": "2026-09-29T22:00:00.186Z",
+  "nextScheduledRun": "2026-09-30T22:00:00.000Z",
   "frequency": "Daily at 10:00 PM",
   "status": "ACTIVE",
   "activeFeedsCount": 6,
   "period": "Sept 26 - Oct 3, 2026",
-  "lastScrapedDate": "2026-09-28",
-  "totalHeadlines": 53,
-  "updatedAt": "2026-09-28T22:28:36.937Z"
+  "lastScrapedDate": "2026-09-29",
+  "totalHeadlines": 0,
+  "updatedAt": "2026-09-29T22:00:00.187Z"
 }

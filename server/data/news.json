@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T22:28:36.936Z",
+  "lastUpdated": "2026-09-29T22:50:00Z",
   "schedule": "10:00 PM Daily",
   "period": "September 26 – October 3, 2026",
   "days": {
@@ -1117,12 +1117,209 @@
     "2026-09-29": {
       "date": "2026-09-29",
       "dayName": "Tuesday",
-      "displayDate": "Tuesday, 29th September 2026",
-      "status": "Nightly 10:00 PM Briefing Queue",
-      "headlineCount": 0,
-      "summary": "Scheduled for nightly scraping and concise synthesis at 10:00 PM.",
-      "ghanaNews": [],
-      "internationalNews": []
+      "displayDate": "Tuesday, 29th September 2026 (Today)",
+      "headlineCount": 14,
+      "summary": "Extraordinary parliamentary session in Ghana sees Speaker Bagbin dismiss drug probe motion; teacher strike continues while 81st UNGA concludes in New York.",
+      "ghanaNews": [
+        {
+          "id": "gh-2026-09-29-01",
+          "title": "Speaker Bagbin Dismisses Minority Motion for Inquiry into 3.9-Tonne Cocaine Seizure; Adjourns Parliament",
+          "source": "Citi Newsroom / Graphic Online",
+          "time": "01:15 PM",
+          "category": "Parliamentary Affairs & Governance",
+          "summary": "Speaker Alban Sumana Kingsford Bagbin convened an extraordinary emergency sitting of Parliament at 12:00 noon to consider a Minority-sponsored petition demanding a bipartisan probe into recent large-scale narcotics seizures linked to Ghana, including 3.9 tonnes of cocaine intercepted at the Port of Dunkirk. Speaker Bagbin ruled the motion inadmissible, explaining that an ad-hoc parliamentary investigation would overlap with active criminal investigations and prejudice pending court processes.",
+          "keyPoints": [
+            "Emergency recall initiated following petition by Minority Leader Alexander Afenyo-Markin.",
+            "Speaker ruled parliamentary probe would prejudice ongoing national security and international police inquiries.",
+            "House adjourned sine die immediately following the ruling."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-29-02",
+          "title": "Minority Leader Afenyo-Markin Vows Alternative Constitutional Action After Speaker Rejects Narcotics Probe",
+          "source": "MyJoyOnline",
+          "time": "02:45 PM",
+          "category": "Parliamentary Politics",
+          "summary": "Addressing the parliamentary press corps following the abrupt adjournment of the House, Minority Leader Alexander Afenyo-Markin voiced strong disagreement with Speaker Bagbin's decision. Afenyo-Markin argued that dismissing the motion curtails Parliament's constitutional oversight mandate over law enforcement agencies, stating the caucus will invoke alternative constitutional provisions to press for scrutiny of port border security.",
+          "keyPoints": [
+            "Minority argues parliamentary inquiries are distinct from executive police investigations.",
+            "Caucus exploring formal motion to challenge the Speaker's procedural determination.",
+            "Reiterated demands for transparency in port scanning and customs intelligence operations."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-29-03",
+          "title": "Nationwide Teacher Strike Enters Day 2 as Education Ministry and FWSC Convene Conciliation Talks",
+          "source": "Graphic Online",
+          "time": "10:00 AM",
+          "category": "Labor & Public Education",
+          "summary": "Classrooms across public primary, junior high, and senior secondary schools nationwide remained locked for a second consecutive day as teacher unions (GNAT, NAGRAT, and CCT) sustained their total strike. Representatives from the Fair Wages and Salaries Commission (FWSC) and the Ministry of Education held high-level closed-door conciliation talks to reach consensus on the Deprived Area Allowance payment schedule.",
+          "keyPoints": [
+            "Over 300,000 public school teachers participating across all 16 regions.",
+            "FWSC and union executives negotiating revised timelines for promotional arrears.",
+            "Parent-Teacher Associations appeal for swift resolution to safeguard the academic calendar."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-29-04",
+          "title": "Electricity Company of Ghana (ECG) Senior and Junior Staff Protest Proposed Private Sector Concession",
+          "source": "Citi Newsroom",
+          "time": "11:40 AM",
+          "category": "Energy Governance & Labor",
+          "summary": "Unionized workers belonging to the Senior Staff Union (SSU) and Junior Staff Union (JSU) of the Electricity Company of Ghana staged nationwide demonstration protests at regional operational centers. The staff expressed fierce opposition to proposed private sector participation (PSP) arrangements, warning government against restructuring power distribution concessions without collective bargaining concurrence.",
+          "keyPoints": [
+            "Workers wore red armbands and picketed outside operational substations.",
+            "Union demands complete transparency regarding government discussions with external private utility firms.",
+            "Energy Ministry assured stakeholders that no concession agreements will compromise national energy security."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-29-05",
+          "title": "Bank of Ghana Monetary Policy Committee Concludes Deliberations Ahead of Wednesday Rate Announcement",
+          "source": "Daily Graphic / Bloomberg",
+          "time": "04:20 PM",
+          "category": "Economic & Monetary Policy",
+          "summary": "The Monetary Policy Committee (MPC) wrapped up its technical review assessing macroeconomic indicators, banking sector capital adequacy, and exchange rate trajectories. Financial analysts project the benchmark policy rate may hold steady as headline inflation continues its gradual disinflation glidepath towards targets.",
+          "keyPoints": [
+            "MPC analyzed international oil price movements and domestic food price indices.",
+            "Gross international foreign exchange reserves maintained steady buffers above 3 months import cover.",
+            "Governor Dr. Ernest Addison scheduled to host the official MPC press briefing on Wednesday."
+          ],
+          "readTime": "2 min read"
+        },
+        {
+          "id": "gh-2026-09-29-06",
+          "title": "Organized Labor Reaffirms October 5 Deadline for Executive Ban on Mining in Forest Reserves",
+          "source": "Joy News",
+          "time": "06:15 PM",
+          "category": "Environmental Governance",
+          "summary": "The Trades Union Congress (TUC), alongside 40 civil society organizations and academic unions, reiterated their joint resolution demanding that the President immediately revoke Environmental Protection (Mining in Forest Reserves) Regulation LI 2462 and declare a temporary moratorium on small-scale surface mining.",
+          "keyPoints": [
+            "Labor unions finalized plans for solidarity strikes should the government fail to act by October 5.",
+            "Water Resources Commission reports severe pollution in Pra, Birim, and Ankobra river basins.",
+            "Presidency set to host dialogue with union leadership at Jubilee House on Wednesday."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "gh-2026-09-29-07",
+          "title": "Ministry of Food and Agriculture Submits Urgent Cabinet Note on World Bank Food Resilience Facility",
+          "source": "GhanaWeb",
+          "time": "08:00 PM",
+          "category": "Agriculture & Development Cooperation",
+          "summary": "The Minister for Food and Agriculture presented an official Cabinet briefing memo highlighting that preserving Ghana's participation in the West Africa Food System Resilience Programme (FSRP) is critical for completing warehouse storage infrastructure and irrigation dams in northern farming belts.",
+          "keyPoints": [
+            "Memo warns that forfeiting the facility would trigger legal termination liabilities with commercial contractors.",
+            "Finance Ministry agreed to review counter-fund budget provisions in the 2027 fiscal framework.",
+            "Development partners express readiness to accommodate phased disbursement milestones."
+          ],
+          "readTime": "2 min read"
+        }
+      ],
+      "internationalNews": [
+        {
+          "id": "intl-2026-09-29-01",
+          "title": "81st UN General Assembly Concludes High-Level Debate in New York; Succession Talks for Next Secretary-General Begin",
+          "source": "UN News / Reuters",
+          "time": "01:30 PM",
+          "category": "UN & Multilateral Affairs",
+          "summary": "The high-level general debate of the 81st UN General Assembly officially drew to a close at UN Headquarters in New York following six days of addresses by world leaders. Deliberations were defined by acute divisions over conflicts in the Middle East and Ukraine, while informal diplomatic consultations commenced regarding the candidate selection process to succeed Secretary-General António Guterres at the conclusion of 2026.",
+          "keyPoints": [
+            "190 member state delegations participated in the general debate session.",
+            "African and Latin American blocs advocated for regional rotational equity in future UN executive leadership.",
+            "UN General Assembly President urged renewed commitment to the Pact for the Future multilateral mandates."
+          ],
+          "readTime": "4 min read"
+        },
+        {
+          "id": "intl-2026-09-29-02",
+          "title": "Iran Revolutionary Guard Escalates Regional Warnings as Strait of Hormuz Diplomatic Efforts Stall",
+          "source": "Al Jazeera / BBC World",
+          "time": "03:40 PM",
+          "category": "Middle East Geopolitics & Energy",
+          "summary": "Senior commanders of Iran's Islamic Revolutionary Guard Corps issued heightened warnings regarding regional maritime corridors, claiming Western sanctions and naval deployments threaten Gulf trade security. The diplomatic deadlock over proposals to reopen unhindered tanker transit through the Strait of Hormuz has intensified pressure on the Iranian rial, which reached historic lows against the dollar.",
+          "keyPoints": [
+            "Hormuz chokepoint handles roughly 20% of global petroleum transport.",
+            "Washington reiterated maritime defense guarantees for international commercial shipping.",
+            "OPEC+ monitoring committees convened virtual consultations on crude supply volatility."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-29-03",
+          "title": "Russia Expands 2027 State Defense Budget by 27% as Drone Bombardment Campaign Against Ukraine Intensifies",
+          "source": "Financial Times / Reuters",
+          "time": "05:15 PM",
+          "category": "International Security & Geopolitics",
+          "summary": "Draft Russian federal budget documents revealed that Moscow intends to increase national defense and security expenditures by 27% in 2027, representing nearly 40% of all state spending. The announcement coincided with Ukrainian military reports that over 3,100 long-range strike drones were launched against Ukrainian energy and logistics hubs over the course of September.",
+          "keyPoints": [
+            "Record defense allocations signal Kremlin commitment to prolonged war posture.",
+            "Ukrainian air defense forces report intercepting approximately 75% of incoming aerial targets.",
+            "European Union leadership pledged accelerated delivery of interceptor missile batteries."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-29-04",
+          "title": "Estonian Intelligence Accuses Russian Security Agency of Arson Attack on Defense Firm Milrem Robotics",
+          "source": "Euronews / ERR",
+          "time": "06:50 PM",
+          "category": "European Security & Hybrid Warfare",
+          "summary": "The Estonian Internal Security Service officially stated that an arson attack in August targeting Milrem Robotics—a leading European developer of autonomous unmanned ground combat vehicles supplying Ukrainian forces—was orchestrated by Russian intelligence operatives. Tallinn warned NATO partners of coordinated hybrid sabotage operations across the Baltic states.",
+          "keyPoints": [
+            "Suspects arrested in connection with cross-border reconnaissance and sabotage funding.",
+            "NATO North Atlantic Council held consultations on collective hybrid defense measures.",
+            "Milrem Robotics confirmed operational vehicle assembly lines were unaffected."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-29-05",
+          "title": "Toronto International Conference on Returning Ukrainian Detainees and Children Concludes with Multi-State Pledge",
+          "source": "CBC / Global Affairs Canada",
+          "time": "08:20 PM",
+          "category": "International Law & Human Rights",
+          "summary": "A ministerial conference co-hosted by Canada, Norway, and Ukraine concluded in Toronto with envoys from over 40 countries pledging diplomatic coordination to track, verify, and secure the return of thousands of displaced Ukrainian children, civilian detainees, and prisoners of war under Geneva Convention safeguards.",
+          "keyPoints": [
+            "Signatories established dedicated intelligence tracing units supported by third-party mediators.",
+            "International Committee of the Red Cross (ICRC) urged unconditional visits to all detention camps.",
+            "Joint communiqué stressed that child deportation constitutes a grave breach of international humanitarian law."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-29-06",
+          "title": "UN Aid Agencies Issue Emergency Appeal as Civilian Blockade in Sudan's El Fasher Escalates",
+          "source": "UNHCR / Al Jazeera",
+          "time": "09:10 PM",
+          "category": "Humanitarian & African Affairs",
+          "summary": "The UN High Commissioner for Refugees and the World Food Programme warned that hundreds of thousands of civilians trapped in El Fasher, North Darfur, are facing catastrophic starvation due to ongoing encirclement by Rapid Support Forces. The UN Security Council urged regional powers to halt weapons transfers fueling the siege.",
+          "keyPoints": [
+            "Emergency food distribution halted as aid trucks are targeted along commercial access roads.",
+            "Over 500,000 displaced persons crowded in makeshift shelters with collapsing sanitation.",
+            "African Union Peace and Security Council scheduled an emergency humanitarian ministerial session."
+          ],
+          "readTime": "3 min read"
+        },
+        {
+          "id": "intl-2026-09-29-07",
+          "title": "Haiti Multinational Security Mission: Kenyan and Caribbean Police Clear Port-au-Prince Transit Arteries",
+          "source": "Miami Herald / AP",
+          "time": "10:00 PM",
+          "category": "International Peacekeeping",
+          "summary": "Kenyan police units leading the UN-backed Multinational Security Support (MSS) mission, reinforced by contingents from Jamaica and Belize, dismantled gang fortifications surrounding central commercial arteries in downtown Port-au-Prince. The operation restored guarded transit access to fuel distribution terminals and major healthcare centers.",
+          "keyPoints": [
+            "Fuel tankers resumed escorted deliveries across the capital for the first time in three weeks.",
+            "Haitian transitional leadership urged the UN to approve long-term mission budget stabilization.",
+            "International donors pledged an additional  million in logistical surveillance equipment."
+          ],
+          "readTime": "3 min read"
+        }
+      ]
     },
     "2026-09-30": {
       "date": "2026-09-30",
