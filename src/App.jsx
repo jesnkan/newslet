@@ -13,8 +13,9 @@ import {
 } from 'lucide-react';
 
 export default function App() {
+  const [loading, setLoading] = useState(true);
   const todayStr = new Date().toISOString().split('T')[0];
-  const initialDate = (todayStr >= '2026-09-26' && todayStr <= '2026-10-03') ? todayStr : '2026-09-29';
+  const initialDate = (todayStr >= '2026-09-26' && todayStr <= '2026-10-03') ? todayStr : '2026-10-02';
   const [selectedDate, setSelectedDate] = useState(initialDate);
   const [days, setDays] = useState([]);
   const [dayData, setDayData] = useState(null);
